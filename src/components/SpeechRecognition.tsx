@@ -91,7 +91,7 @@ const SpeechRecognition: React.FC<SpeechRecognitionProps> = ({
         variant: "destructive",
       });
     }
-  }, [onResult, setIsListening, speak]);
+  }, []); // Removed dependencies to prevent infinite loop
 
   const processVoiceInput = (text: string) => {
     const lowerText = text.toLowerCase();
