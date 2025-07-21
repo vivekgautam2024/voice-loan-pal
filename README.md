@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/21f0302e-760e-4540-af01-7ef879c8206a) and start prompting.
+Simply visit the [Lovable Project](https://voice-loan-pal.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
